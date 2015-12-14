@@ -13,3 +13,16 @@ h3 {
   color: #B92E2E;
   text-shadow: 1px 1px black;
 }
+
+/* line 5, ../../compass/sass/views/_login.scss */
+body {
+  background: #D5CFCF;
+}
+/* line 7, ../../compass/sass/views/_login.scss */
+body h1 {
+  text-shadow: 2px 2px #876767;
+}
+/* line 10, ../../compass/sass/views/_login.scss */
+body .form-group {
+  width: 60%;
+}
