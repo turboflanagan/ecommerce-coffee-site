@@ -1,4 +1,15 @@
 /* line 5, ../../compass/sass/views/_home.scss */
 body {
-  background: white;
+  background: #D5CFCF;
+}
+
+/* line 9, ../../compass/sass/views/_home.scss */
+h1 {
+  text-shadow: 2px 2px #876767;
+}
+
+/* line 13, ../../compass/sass/views/_home.scss */
+h3 {
+  color: #B92E2E;
+  text-shadow: 1px 1px black;
 }
